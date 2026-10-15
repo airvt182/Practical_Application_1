@@ -1,5 +1,5 @@
 # Practical_Application_1
-Coupon Acceptance Analysis
+
 In this repository, I apply data analysis, plotting, statistical summarization, and data visualization skills and techniques to a machine learning problem.
 
 Overview
